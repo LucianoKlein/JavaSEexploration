@@ -22,5 +22,6 @@ public class Solution {
 		}
 		//4.关闭流
 		reader.close();
+		//what happened?
 	}
 }
