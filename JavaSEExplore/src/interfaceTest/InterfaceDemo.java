@@ -1,12 +1,12 @@
 /*
- *×¢ÒâËùÓĞµÄinterfaceÀïµÄ±äÁ¿, ¶¼»á×Ô¶¯×ª»¯³Épublic static final
- *ËùÓĞµÄ·½·¨, ¶¼»á×ª»¯³Épublic abstract
- * ×¢Òâ²»¿ÉÒÔÊ¹ÓÃprivateĞŞÊÎ·û
+ *×¢ï¿½ï¿½ï¿½ï¿½ï¿½Ğµï¿½interfaceï¿½ï¿½Ä±ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½ï¿½ï¿½Ô¶ï¿½×ªï¿½ï¿½ï¿½ï¿½public static final
+ *ï¿½ï¿½ï¿½ĞµÄ·ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½ï¿½×ªï¿½ï¿½ï¿½ï¿½public abstract
+ * ×¢ï¿½â²»ï¿½ï¿½ï¿½ï¿½Ê¹ï¿½ï¿½privateï¿½ï¿½ï¿½Î·ï¿½
  */
 interface IWalkable
 {
 	void walk();
-	String leg = "ÍÈ";
+	String leg = "ï¿½ï¿½";//fgfggffgfgfg
 }
 
 interface ISwimable
